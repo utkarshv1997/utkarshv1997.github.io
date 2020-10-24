@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Utkarsh Vashishtha"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Utkarsh Vashishtha"
 description              : &description "personal description"
 url                      : https://utkarshv1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/utkarshv1997/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
