@@ -10,7 +10,7 @@ main:
     url: /achievements/
 
   - title: "Extra-(academic/professional)"
-      url: /interests/
+    url: /interests/
 
   - title: "Résumé"
     url: https://utkarshv1997.github.io/files/Resume_Utkarsh_Vashishtha.pdf
