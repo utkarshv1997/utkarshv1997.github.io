@@ -18,10 +18,10 @@ complex JSON documents that are mutable. This enables an ingestion rate of aroun
 
 <big> Software R&D Intern (Jan’19 - Jul’19)</big> 
 
-* Worked on [various components of Presto](https://www.qubole.com/developers/presto-on-qubole/), an open source distributed query engine and its server-less offering, 
-Quantum which is provided as SaaS.
-* High Availability of Quantum clusters, inclusion of the faraday library for tunnel proxy port in Presto, middleware improvements 
-for stable connection between Presto client and Presto servers, Quantum Hive Auth (secure layer over the Hive meta-store).
+* Worked on [various components of *Presto*](https://www.qubole.com/developers/presto-on-qubole/), an open source distributed query engine and its server-less offering, 
+*Quantum* which is provided as SaaS.
+* High Availability of *Quantum* clusters, inclusion of the faraday library for tunnel proxy port in *Presto*, middleware improvements 
+for stable connection between *Presto* client and *Presto* servers, *Quantum Hive Auth* (secure layer over the Hive meta-store).
 
 # CitCorp services, India
 
@@ -35,5 +35,5 @@ of Microsoft SQL database scripts validations as a pre-deployment step on Produc
 
 <big> Software R&D Intern (May’17 - Jul’17) </big>
 
-* Chroma-Keying : Green-screen(any color) removal effect for dynamically generated videos on a web-cam, using JavaScript *(seriously.js, p5.js)*.
+* Chroma-Keying : Green-screen(any color) removal effect for dynamically generated videos on a web-cam, using *JavaScript* *(seriously.js, p5.js)*.
 * Template-Engine : Designed a web-app (JS + PHP + MongoDB) to allow users to generate frame templates for automated video creation.

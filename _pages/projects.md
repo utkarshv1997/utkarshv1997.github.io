@@ -5,6 +5,10 @@ author_profile: true
 permalink: /projects/
 redirect_from:
   - /project/
+  
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 ---
 # Application Monitoring using libc Call Interception, AppDynamics, Cisco R&D
 
