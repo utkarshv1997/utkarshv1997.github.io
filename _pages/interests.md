@@ -2,9 +2,9 @@
 title: ""
 excerpt: ""
 author_profile: true
-permalink: /extrainterests/
+permalink: /interests/
 redirect_from:
-  - /extrainterests/
+  - /interests/
 ---
 
 ### When I'm not fixing bugs in Production/ working on a project/ reading a paper, you can find me doing some of the following stuff -->   
