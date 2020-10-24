@@ -16,10 +16,8 @@ I'm a spirited Athlete (a sprinter to be precise) who loves observing patterns f
 technical or organisational, sometimes leading them as well. Various such experiences along with a new-found interest in playing the Flute stem from my 
 *undergrad life*.
 
+### Contact Details :
 ---
-
-Contact Details :
--
 Email: utkarsh.vashishtha1997@gmail.com | f2015130p@alumni.bits-pilani.ac.in
 
 LinkedIn: [Utkarsh Vashishtha](https://www.linkedin.com/in/utkarshv1997/)
