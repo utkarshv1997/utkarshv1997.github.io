@@ -11,10 +11,10 @@ redirect_from:
 
 * Developed an easy to use, language-agnostic, platform-agnostic monitoring tool, for distributed applications, in Golang. The same approach could be used to develop
 a data-monitoring system over the bytes flowing over sockets of a distributed application.  
+* Research work accepted for publication in the [**Springer ICICCS 2020** journal](https://www.springer.com/in/book/9789811584428). (To be published by the end of 2020) <br>
 
-> Research work accepted for publication in the [**Springer ICICCS 2020** journal](https://www.springer.com/in/book/9789811584428). (To be published by the end of 2020)
-> Citation: Harish Thuwal, **Utkarsh Vashishtha**
-> Abstract: Generally Available Application Monitoring solutions comprise basic aggregated metrics. This paper collects such metrics in the form of raw data. 
+> **Citation** : Harish Thuwal, **Utkarsh Vashishtha** <br>
+> **Abstract** : Generally Available Application Monitoring solutions comprise basic aggregated metrics. This paper collects such metrics in the form of raw data. 
 > We have worked out a very primitive piece written in Golang, which manifests results from HTTP/HTTPS calls from/to the system being monitored. 
 > This process can be easily extended and applied to various architectures that use the libc library to make low-level system calls to interact 
 > with sockets or in a more basic sense, files. The experimentation and the proof of concept was carried out on various languages viz C, Java, Python, 
