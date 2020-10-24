@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Currently, I work as an R&D engineer in the Analytics platform team at *AppDynamics, Cisco Systems, Bangalore, India*. I completed my undergraduate
-from *Birla Institue of Technology and Science, Pilani, Pilani Campus* with a major in Computer Science and a minor in Finance.
+from *Birla Institue of Technology and Science, Pilani, Pilani Campus* with a major in **Computer Science** and a minor in **Finance**.
 
 > Special introduction for BITSians : (**2015A7PS0130P, SR-240, BD-1133, VY-158, RP-213**).
 

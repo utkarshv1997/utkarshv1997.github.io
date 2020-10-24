@@ -14,6 +14,7 @@ a data-monitoring system over the bytes flowing over sockets of a distributed ap
 * Research work accepted for publication in the [**Springer ICICCS 2020** journal](https://www.springer.com/in/book/9789811584428). (To be published by the end of 2020) <br>
 
 > **Citation** : Harish Thuwal, **Utkarsh Vashishtha** <br>
+> <br>
 > **Abstract** : Generally Available Application Monitoring solutions comprise basic aggregated metrics. This paper collects such metrics in the form of raw data. 
 > We have worked out a very primitive piece written in Golang, which manifests results from HTTP/HTTPS calls from/to the system being monitored. 
 > This process can be easily extended and applied to various architectures that use the libc library to make low-level system calls to interact 

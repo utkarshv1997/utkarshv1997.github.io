@@ -9,7 +9,12 @@ redirect_from:
 
 <big> KVPY (Kishore Vaigyanik Protsahan Yojana) - fellowship - 2014</big>
 
-* Awarded the KVPY fellowship by the Indian Institute of Science, Bangalore, India. 
+* Awarded the KVPY fellowship by the Indian Institute of Science, Bangalore, India.
+
+<big> Winner - AppDynamics company-wide Hackathon, 2020 </big>
+
+* Along with my teammate, I developed a new idea for an application monitoring solution for GoLang applications that later
+culminated into a research project. We got awarded the best solution in the Customer solution domain.    
 
 <big> Member, Association of Computing Machinery, BITS-Pilani chapter </big>
 
@@ -30,3 +35,9 @@ of the semester, so like a credit card system, with 0% interest rate.
 <big> Member, Department of Theatre </big>
 
 * Organisation of kernel events for the cultural fest of BITS, Pilani : OASIS
+
+<big> Best All-round student in High School - 2013 </big>
+
+* Got awarded the Raman Subramanyam Award for all-round excellence
+
+
