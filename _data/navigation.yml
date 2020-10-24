@@ -1,22 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Work Experience"
+    url: /workex/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects/Publications"
+    url: /projects/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Position of Responsibilities/Achievements"
+    url: /achievements/
+
+  - title: "Resume"
+    url: https://utkarshv1997.github.io/files/Resume_Utkarsh_Vashishtha.pdf
