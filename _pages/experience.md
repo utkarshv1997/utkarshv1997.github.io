@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /workex/
 redirect_from:
-  - /workex/
+  - /workexperience/
 ---
 # AppDynamics, Cisco Systems, India
 

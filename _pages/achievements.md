@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /achievements/
 redirect_from:
-  - /achievements/
+  - /achievement/
 ---
 
 <big> KVPY (Kishore Vaigyanik Protsahan Yojana) - fellowship - 2014</big>
