@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /interests/
 redirect_from:
-  - /interests/
+  - /interest/
 ---
 
 ### When I'm not fixing bugs in Production/ working on a project/ reading a paper, you can find me doing some of the following stuff -->   
