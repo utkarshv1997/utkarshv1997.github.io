@@ -52,10 +52,15 @@ Guide: [Prof. Poonam Goyal](https://www.bits-pilani.ac.in/Pilani/poonam/profile)
 and content-based filtering using the [Free Music Archive Audio data](https://github.com/mdeff/fma) 
 * A song recommendation was made using Sentiment Analysis of recent tweets created by the user.
 
-# Comprehensive stock analysis & Beta and Stock price analysis :
+# Comprehensive stock analysis & Beta and Stock price analysis
 
 Guide: [Prof. Rajan Pandey](https://www.bits-pilani.ac.in/pilani/rajanpandey/profile)
 
 * Fundamental analysis and time-series technical analysis of *Punjab National Bank* in the National Stock Exchange. 
 * Used data from the [NSE Website](https://www.nseindia.com/), [Moneycontrol.com](www.moneycontrol.com), and Capitaline Database for beta and stock price
 analysis of [Akzo Nobel India Ltd.](https://akzonobel.co.in/)
+
+# Compiler Construction for a custom language
+
+* Developed a Compiler, constituting of a Parser, a Lexer, a Semantics Checker, an Intermediate code generator, an Assembly code generator for a custom
+ Grammar, in the C language.   
