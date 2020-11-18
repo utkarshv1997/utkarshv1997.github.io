@@ -21,6 +21,8 @@ a data-monitoring system over the bytes flowing over sockets of a distributed ap
 > with sockets or in a more basic sense, files. The experimentation and the proof of concept was carried out on various languages viz C, Java, Python, 
 > and Golang itself using docker and some classic open-source compilers.
 
+[**View Paper Here**](https://utkarshv1997.github.io/files/Application_Monitoring_Using_libc_Call_Interception)
+
 # Prediction of Earthquakes using Nowcasting
 
 Guide: [Prof. Navneet Goyal](https://universe.bits-pilani.ac.in/pilani/goel/profile)
