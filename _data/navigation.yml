@@ -9,8 +9,8 @@ main:
   - title: "Societies/Achievements"
     url: /achievements/
 
-  - title: "Interests"
+  - title: "Random"
     url: /interests/
 
-  - title: "Résumé"
-    url: https://utkarshv1997.github.io/files/Resume_Utkarsh_Vashishtha.pdf
+  - title: "Résumé/CV"
+    url: https://utkarshv1997.github.io/files/CV_Utkarsh_Vashishtha.pdf
